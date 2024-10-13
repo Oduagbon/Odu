@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+form{width:auto; position:absolute; right:0;}
+            body{background-color: #403ab096;}
+            p, h1{color: rgba(26, 26, 150, 0.765);}
+            table,th,td{border:1px solid black; border-collapse:collapse}
+            tr:nth-child(odd){background-color:#08061369}
+            a{text-decoration: none;}
+            </style>
+            </head>
+            <body>
+
+                <div>
+                    <form>
+                    <label for="fname">First name</label><br>
+                    <input type="text" name="fname" value="oven"><br>
+                    <label for="lname">Last name</label><br>
+                    <input type="text" name="lname" value="oven"><br>
+                    <label for="fname">Email</label><br>
+                    <input type="Email" value="email address"><br><br>
+                    <label for="teaxtarea"></label><br>
+                    <textarea>Text here</textarea><br>
+                    <input type="submit" value="submit">
+                </div>
+            
+                
+            </form>
+            
+   <div>
+                
+                    <iframe name="ifr" width="320px" height="300px"></iframe>
+                
+                <list>
+                    <ul style="list-style-type:url('sqpurple.gif')">
+                    <li><a href="https://www.snowcargo.com" target="ifr">miracle</a></li>
+                    <li><a href="#">yes</a></li>
+                    <li><a href="https://www.facebook.com" target="iframe">ability</a></li>
+                    <li><a href="#">again</a></li>
+                </ul>
+                </list>
+
+              
+
+                <p  style="position:sticky">
+                    yes i know this might be absurd but i have decided
+                     to follow this route until the end of time, and i will never let it go.
+                      I will only advance it and continue to work on it by God's grace. Lord please protect my energy against invaders and all those that 
+                    intend to continue to bewitch me. may they not find peace in this world or the world beyond.
+                </p>
+                </div>
+           
+            
+            <div>
+                <table>
+                    <caption>First Table</caption>    
+                    <tr>
+                    <th>white head</th>
+                    <th>pink head</th>
+                    <th>Read head</th>
+                    <th>black head</th>
+                </tr>
+                <tr>
+                    <td>100</td>
+                    <td>300</td>
+                    <td>290</td>
+                    <td>200</td>
+                </tr>
+                <tr>
+                    <td>ahead</td>
+                    <td>ahead</td>
+                    <td>below</td>
+                    <td>ahead</td>
+                    
+                </tr>
+                <tr>
+                <td>management</td>
+                <td>general</td>
+                <td>director</td>
+                <td>supervisor</td>
+                </tr>
+                </table>
