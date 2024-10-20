@@ -2,81 +2,114 @@
 <html>
     <head>
         <style>
-form{width:auto; position:absolute; right:0;}
-            body{background-color: #403ab096;}
-            p, h1{color: rgba(26, 26, 150, 0.765);}
-            table,th,td{border:1px solid black; border-collapse:collapse}
+            form{width:auto; position:absolute; right:0;color:red}
+            body{background-color: #305030;}
+             h1{color: rgba(26, 26, 150, 0.765);}
+            table,th,td{border:1px solid black; border-collapse:collapse;color:white}
             tr:nth-child(odd){background-color:#08061369}
             a{text-decoration: none;}
+            ul{list-style-type:none; float:left;padding:0;
+                background-color:#a2a2a2;border-right:5px solid white;
+                border-left:2px solid green;}
+            li{display:inline;margin:5px;margin-left:0;}
+            li:hover{background-color:#306030;}
+            li:active{background-color:black}
+            p::first-letter{color:blue; text-size:xxx-large}
+
+
+
+            iframe{position:absolute;right:400px}
             </style>
             </head>
             <body>
 
-                <div>
+                <div class="form";>
                     <form>
+<caption>Application Form</caption><br><br>
                     <label for="fname">First name</label><br>
-                    <input type="text" name="fname" value="oven"><br>
+                    <input type="text" name="fname" ><br>
                     <label for="lname">Last name</label><br>
-                    <input type="text" name="lname" value="oven"><br>
+                    <input type="text" name="lname"><br>
                     <label for="fname">Email</label><br>
-                    <input type="Email" value="email address"><br><br>
-                    <label for="teaxtarea"></label><br>
+                    <input type="Email"><br>
+                    <label for="teaxtarea">Leave A Comment</label><br>
                     <textarea>Text here</textarea><br>
                     <input type="submit" value="submit">
+                </form>
                 </div>
             
                 
-            </form>
+           
             
-   <div>
+   
+                <div class="iframe">
                 
-                    <iframe name="ifr" width="320px" height="300px"></iframe>
+                    <iframe name="ifr" width="320px" height="300px;"></iframe>
                 
                 <list>
-                    <ul style="list-style-type:url('sqpurple.gif')">
-                    <li><a href="https://www.snowcargo.com" target="ifr">miracle</a></li>
-                    <li><a href="#">yes</a></li>
-                    <li><a href="https://www.facebook.com" target="iframe">ability</a></li>
-                    <li><a href="#">again</a></li>
+                    <ul style="list-style-type:none;background-color:white">
+                    <li><a href="https://www.snowcargo.com" target="ifr">Chemicals</a></li>
+                    <li><a href="#">Reform</a></li>
+                    <li><a href="https://www.facebook.com" target="ifr">Fire</a></li>
+                    <li><a href="#form"; target="ifr">Man</a></li>
                 </ul>
                 </list>
 
               
 
-                <p  style="position:sticky">
-                    yes i know this might be absurd but i have decided
-                     to follow this lane until it is profitable, and i will only give it up when i found something better. I will only advance and continue to work on it by God's grace. Lord please protect my energy against invaders and all those that 
-                    intend to continue to bother me. May they not find peace in this world or the world beyond.
+                <p  style="position:absolute;right:300px;left:200px;bottom:150px; color:white">
+
+                    Yes i know this might be absurd but i have decided
+                     to follow this lane until it is profitable, and i will only give it up when i find something better. I will only advance and continue to work on it by God's grace. Lord please protect my energy against invaders and all those that 
+                    intend to continue to bother me.
                 </p>
                 </div>
            
             
-            <div>
+            <div style="position:absolute;bottom:25px">
                 <table>
                     <caption>First Table</caption>    
                     <tr>
+
+                    <td>colors</dt>
                     <th>white head</th>
                     <th>pink head</th>
                     <th>Read head</th>
                     <th>black head</th>
+
+
                 </tr>
                 <tr>
+
+                    <td>sum in dollar</th>
                     <td>100</td>
                     <td>300</td>
                     <td>290</td>
                     <td>200</td>
+
                 </tr>
                 <tr>
+
+                    <td>position</th>
                     <td>ahead</td>
                     <td>ahead</td>
                     <td>below</td>
                     <td>ahead</td>
+
                     
                 </tr>
                 <tr>
+
+                <td>Team led by</th>
                 <td>management</td>
                 <td>general</td>
                 <td>director</td>
                 <td>supervisor</td>
+
                 </tr>
+
+
+
                 </table>
+</div>
+</html>
